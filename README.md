@@ -2,7 +2,7 @@
 
 I study cs and math. I like **machine learning**. 
 
-- 🔭 research: scaled ml, ml optimization, generative ml, continuous ml, AI alignment
+- 🔭 research: scaled ml, ml optimization, generative ml, continuous ml, AI alignment, algebraic geometry
 - 🌱 hobbies: product & software design, philosophy, guitar, gaming
 - 🖋️ more links: [cveinnt.ml](https://cveinnt.ml)
 
