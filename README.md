@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome to Vincent's Github
 
-I am an undergrad at UC Berkeley studying CS 💻 and Math ♾️. I like machine learning. 
+I am an student at UC Berkeley studying CS  and Math. I like machine learning. 
 - 🔭 My research interests include large-scale ml systems, edge computing/tiny ml, deep generative models, continual learning, and AI alignment.
 - 🌱 In my spare time, I like to design & build stuff, read philosophy, and play guitar.
 - 🖋️ I also have a [personal blog](https://vincentwu.me), where I share some of my hobby projects and write about random stuff.
