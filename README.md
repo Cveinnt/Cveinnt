@@ -2,8 +2,8 @@
 
 I study cs and math. I like **machine learning**. 
 
-- 🔭 research interests: large-scale ml systems, edge computing/tiny ml, deep generative models, continual learning, AI alignment
-- 🌱 my hobbies: design & build stuff, read philosophy, play guitar, and gaming
+- 🔭 research: large-scale ml systems, edge computing/tiny ml, deep generative models, continual learning, AI alignment
+- 🌱 hobbies: design & build stuff, read philosophy, play guitar, and gaming
 - 🖋️ more links: [cveinnt.ml](https://cveinnt.ml)
 
 I've _recently started_ (may 2022) participating in the open source community; feel free to reach out if you want to collab!
