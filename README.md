@@ -1,4 +1,4 @@
-### hello there 👋, welcome to my github
+### hello there 👋
 
 I study cs and math. I like **machine learning**. 
 
