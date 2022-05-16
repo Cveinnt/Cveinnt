@@ -1,10 +1,6 @@
-<img align="left" src="https://wensenwu.com/android-chrome-512x512.png" width=86>
-
 ### hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
 
 I study cs and math. I like **machine learning**.
-
-<br>
 
 - 🔭 research: scaled ml, ml optimization, generative ml, continuous ml, AI alignment, algebraic geometry
 - 🌱 hobbies: product & software design, philosophy, guitar, gaming
