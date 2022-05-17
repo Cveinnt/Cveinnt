@@ -4,7 +4,8 @@ I study cs and math. I like **machine learning**.
 
 - 🔭 research: scaled ml, ml optimization, generative ml, continuous ml, AI alignment, algebraic geometry
 - 🌱 hobbies: product & software design, philosophy, guitar, gaming
-- 💻 terminal: [_cveinnt.com_](https://cveinnt.com)
+- 💻 terminal: [cveinnt.com](https://cveinnt.com)
+- 💾 OS: [cveinntOS](https://cveinnt.org/)
 - 🤷‍♂️ [what's cveinnt?](https://wensenwu.com/cveinnt)
 
 I've _recently started_ (may 2022) participating in the open source community; feel free to reach out if you want to collab!
