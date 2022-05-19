@@ -10,4 +10,4 @@ I study cs and math. I like **machine learning**.
 
 I've _recently started_ (may 2022) participating in the open source community; feel free to reach out if you want to collab!
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cveinnt&hide=issues&count_private=false&show_icons=true&hide_border=true&theme=tokyonight" alt="cveinnt" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cveinnt&count_private=false&show_icons=true&hide_border=true&theme=tokyonight" alt="cveinnt" />
